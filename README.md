@@ -19,6 +19,7 @@ https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/bul
 
 1. REST API: https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_what_is_rest_api.htm
 2. BULK API: https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/asynch_api_intro.htm
+3. METADATA API: https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_intro.htm
 
 
 ## TUTORIAL
