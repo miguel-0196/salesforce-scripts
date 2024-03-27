@@ -15,10 +15,18 @@ https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/bul
 
 # REF
 
+## SALESFORCE API
+
+1. REST API: https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_what_is_rest_api.htm
+2. BULK API: https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/asynch_api_intro.htm
+
+
+## TUTORIAL
+
+https://pypi.org/project/simple-salesforce/
 https://learndataanalysis.org/getting-started-with-salesforce-rest-api-in-python/
 https://learndataanalysis.org/getting-started-with-salesforce-rest-api-in-python-2/
 
 
-# Salesforce data model
-
+## DATAMODEL
 https://architect.salesforce.com/1/asset/immutable/s/a566708/assets/images/data-models/sales-cloud-overview-data-model.png
