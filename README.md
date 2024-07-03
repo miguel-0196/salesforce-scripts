@@ -1,4 +1,5 @@
 # Salesforce integration scripts
+![Salesforce](img/salesforce.png)
 
 This includes scripts for salesforce integration with REST API in python.
 
